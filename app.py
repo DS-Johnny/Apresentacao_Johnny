@@ -33,7 +33,7 @@ with hist:
 with sobre:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.write('boardgame.png', width=150)
+		st.image('boardgame.png', width=150)
 	with col2:
 		st.markdown('''Além da programação, sou apaixonado por várias outras coisas, como tocar violão, jogar games e jogos de tabuleiro. 
   Amo filmes e séries e sou fã de esportes radicais e artes marciais (mesmo que eu esteja meio fora de forma ultimamente :joy:). 
@@ -42,7 +42,7 @@ with sobre:
 with jornada:
 	col1, col2 = st.columns(2)
 	with col1:
-		st.write('python.png', width=150)
+		st.image('python.png', width=150)
 	with col2:
 		st.markdown('''Eu espero que a gente se divirta muito enquanto exploramos Python. Mais do que aprender comandos e códigos, quero que vocês sintam a magia de resolver problemas de forma criativa, com lógica e com a ajuda dessa linguagem maravilhosa.
 Ao final do curso vocês serão capases de desenvolver aplicações em linguagem Python, por meio de técnicas de programação, seguindo boas práticas, procedimentos e normas. ''')
