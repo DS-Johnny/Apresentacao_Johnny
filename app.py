@@ -2,7 +2,7 @@ import streamlit as st
 
 # ------------------------ Sidebar ------------------------------------------
 st.sidebar.image("senai_logo.jpg")
-st.sidebar.title('Fábrica de Programadores')
+st.sidebar.title('Fábrica de Programadores!')
 
 
 # ------------------------ Body ----------------------------------------------
